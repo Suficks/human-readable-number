@@ -24,6 +24,6 @@ module.exports = function toReadable(number) {
     }
   }
 
-  return result.split('').join('')
+  return result
 }
 
